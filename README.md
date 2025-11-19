@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header-github-diegova6.png.png" alt="Header" />
+  <img src="./header-github-diegova6.png" alt="Header" />
 </p>
 
 # 👋 Hi, I'm Diego Valladares
