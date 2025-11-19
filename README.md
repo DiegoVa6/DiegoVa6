@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./header-github-diegova6.png.png" alt="Header" />
+</p>
+
 # 👋 Hi, I'm Diego Valladares
 
 I am a **Double Degree student in Computer Science + Business Administration**
