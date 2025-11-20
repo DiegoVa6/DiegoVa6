@@ -68,7 +68,7 @@ Process handling • Algorithms • Unix philosophy
 
 If you'd like to reach out:
 
-- LinkedIn  https://www.linkedin.com/in/diego-valladares-ortega-09856936a/ 
+- LinkedIn  [https://www.linkedin.com](https://www.linkedin.com/in/diego-valladares-ortega/)
 
 ---
 
