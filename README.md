@@ -15,7 +15,7 @@ independent development.
 
 ## 🚀 About me
 
-- 🎓 Double Degree: **Computer Engineering + ADE**
+- 🎓 Dual Bachelor: **Computer Engineering + ADE**
 - 🏫 Student at **42 Madrid**
 - 💻 Passionate about C programming, algorithms, memory management and clean code
 - 🌱 Currently working through the Core Curriculum (push_swap, so_long, minishell…)
