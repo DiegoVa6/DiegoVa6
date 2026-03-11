@@ -1,19 +1,10 @@
-<p align="center">
-  <img src="./header-github-diegova6.png" alt="Header" />
-</p>
-
 # 👋 Hi, I'm Diego Valladares
 
-I am a **Dual Bachelor student in Computer Science + Business Administration**
-and a current trainee at **42 Madrid – Fundación Telefónica**.
-
-I’m focused on learning low-level programming, algorithms, system tools
-and software engineering best practices through the 42 curriculum and
-independent development.
-
----
+I am a **Dual Bachelor student in Computer Science + Business Administration** and a current trainee at **42 Madrid – Fundación Telefónica**.
 
 ## 🚀 About me
+
+I am currently combining my studies at **Universidad Carlos III de Madrid** and **42 Madrid**, building a profile that mixes software engineering, problem solving and business perspective.
 
 - 🎓 Dual Bachelor: **Computer Engineering + ADE**
 - 🏫 Student at **42 Madrid**
