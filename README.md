@@ -25,10 +25,14 @@ Here are some of the projects I’ve developed so far at 42:
 - [`get_next_line`](https://github.com/DiegoVa6/get_next_line) — line-by-line file reading in C  
 - [`Piscina42Julio`](https://github.com/DiegoVa6/Piscina42Julio) — C Piscine exercises on pointers, recursion, strings and memory
 
+## 📈 Activity
+
+[![Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoVa6&theme=github-dark&hide_border=true&area=true)](https://github.com/DiegoVa6)
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoVa6&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVa6&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
