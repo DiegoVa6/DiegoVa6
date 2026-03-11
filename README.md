@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Diego Valladares
 
-I am a **Dual Bachelor student in Computer Science + Business Administration** and a current trainee at **42 Madrid – Fundación Telefónica**.
+I am a **Dual Bachelor student in Computer Science + Business Administration** 
+and a current trainee at **42 Madrid – Fundación Telefónica**.
 
 ## 🚀 About me
 
