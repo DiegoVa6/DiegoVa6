@@ -27,6 +27,19 @@ Here are some of the projects I’ve developed so far at 42:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoVa6&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVa6&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,git,linux,vscode,mysql" />
+</p>
+
 ## 📫 Contact
 
 If you'd like to reach out:
