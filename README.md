@@ -48,5 +48,3 @@ If you'd like to reach out:
 
 - LinkedIn  [https://www.linkedin.com](https://www.linkedin.com/in/diego-valladares-ortega/)
 - Email     Diego.vallor@gmail.com
----
-
