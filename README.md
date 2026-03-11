@@ -27,36 +27,11 @@ Here are some of the projects I’ve developed so far at 42:
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages:**  
-C • Bash • Makefile • Python (basic)
-
-**Tools:**  
-Git • Linux • VSCode • Vim • GitHub
-
-**Concepts:**  
-Memory management • Recursion • Data structures • Low-level programming  
-Process handling • Algorithms • Unix philosophy
-
----
-
-## 🎯 Currently learning
-
-- Sorting algorithms (`push_swap`)
-- Shell parsing and process control (`minishell`)
-- File I/O, buffers and map parsing (`so_long`)
-- Unix, pointers to functions, complex memory management
-
----
-
 ## 📫 Contact
 
 If you'd like to reach out:
 
 - LinkedIn  [https://www.linkedin.com](https://www.linkedin.com/in/diego-valladares-ortega/)
-
+- Email     Diego.vallor@gmail.com
 ---
 
-Thanks for visiting my profile 👋  
-Always open to collaboration and learning!
