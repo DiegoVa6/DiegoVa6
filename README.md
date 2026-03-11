@@ -25,8 +25,6 @@ Here are some of the projects I’ve developed so far at 42:
 - [`get_next_line`](https://github.com/DiegoVa6/get_next_line) — line-by-line file reading in C  
 - [`Piscina42Julio`](https://github.com/DiegoVa6/Piscina42Julio) — C Piscine exercises on pointers, recursion, strings and memory
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
