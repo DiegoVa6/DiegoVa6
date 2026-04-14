@@ -33,7 +33,7 @@ Here are some of the projects I’ve developed so far at 42:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVa6&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./assets/github-stats-card.svg" alt="GitHub Stats Card" width="800" />
 </p>
 
 ## 🛠 Tech Stack
