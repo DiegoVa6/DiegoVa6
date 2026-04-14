@@ -1,0 +1,86 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="70" x2="500" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="18" flood-color="#000000" flood-opacity="0.30"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+
+  <!-- subtle grid -->
+  <g opacity="0.08">
+    <path d="M60 60H1140" stroke="#93C5FD"/>
+    <path d="M60 110H1140" stroke="#93C5FD"/>
+    <path d="M60 160H1140" stroke="#93C5FD"/>
+    <path d="M60 210H1140" stroke="#93C5FD"/>
+    <path d="M60 260H1140" stroke="#93C5FD"/>
+    <path d="M140 40V280" stroke="#93C5FD"/>
+    <path d="M260 40V280" stroke="#93C5FD"/>
+    <path d="M380 40V280" stroke="#93C5FD"/>
+    <path d="M500 40V280" stroke="#93C5FD"/>
+    <path d="M620 40V280" stroke="#93C5FD"/>
+    <path d="M740 40V280" stroke="#93C5FD"/>
+    <path d="M860 40V280" stroke="#93C5FD"/>
+    <path d="M980 40V280" stroke="#93C5FD"/>
+    <path d="M1100 40V280" stroke="#93C5FD"/>
+  </g>
+
+  <!-- left profile block -->
+  <g filter="url(#shadow)">
+    <rect x="44" y="44" width="420" height="232" rx="24" fill="#0B1220" stroke="#334155"/>
+    <circle cx="108" cy="108" r="36" fill="url(#accent)"/>
+    <text x="108" y="118" text-anchor="middle" fill="white" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700">D</text>
+
+    <text x="160" y="95" fill="#E5E7EB" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700">Diego Va6</text>
+    <text x="160" y="128" fill="#93C5FD" font-size="18" font-family="Arial, Helvetica, sans-serif">UC3M + 42 Madrid</text>
+    <text x="160" y="154" fill="#9CA3AF" font-size="16" font-family="Arial, Helvetica, sans-serif">CS + Business • C / Python / Linux / Git</text>
+
+    <rect x="76" y="190" width="140" height="46" rx="23" fill="url(#pill)"/>
+    <text x="146" y="219" text-anchor="middle" fill="white" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">Algorithms</text>
+
+    <rect x="228" y="190" width="118" height="46" rx="23" fill="#172033" stroke="#334155"/>
+    <text x="287" y="219" text-anchor="middle" fill="#E5E7EB" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">Backend</text>
+
+    <rect x="358" y="190" width="70" height="46" rx="23" fill="#172033" stroke="#334155"/>
+    <text x="393" y="219" text-anchor="middle" fill="#E5E7EB" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">ML</text>
+  </g>
+
+  <!-- right stats -->
+  <g filter="url(#shadow)">
+    <rect x="500" y="44" width="656" height="232" rx="24" fill="#0B1220" stroke="#334155"/>
+  </g>
+
+  <text x="540" y="85" fill="#F9FAFB" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">Quick Snapshot</text>
+  <text x="540" y="112" fill="#9CA3AF" font-size="16" font-family="Arial, Helvetica, sans-serif">Clean local SVG card for your profile README</text>
+
+  <!-- stat cards -->
+  <g>
+    <rect x="540" y="136" width="178" height="92" rx="20" fill="#111827" stroke="#334155"/>
+    <text x="564" y="167" fill="#93C5FD" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1.2">REPOSITORIES</text>
+    <text x="564" y="207" fill="#FFFFFF" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="700">24</text>
+
+    <rect x="739" y="136" width="178" height="92" rx="20" fill="#111827" stroke="#334155"/>
+    <text x="763" y="167" fill="#C4B5FD" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1.2">STARS</text>
+    <text x="763" y="207" fill="#FFFFFF" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="700">4</text>
+
+    <rect x="938" y="136" width="178" height="92" rx="20" fill="#111827" stroke="#334155"/>
+    <text x="962" y="167" fill="#86EFAC" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1.2">MAIN LANGUAGES</text>
+    <text x="962" y="202" fill="#FFFFFF" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">C  •  Python</text>
+  </g>
+
+  <text x="540" y="256" fill="#9CA3AF" font-size="15" font-family="Arial, Helvetica, sans-serif">
+    Building solid engineering foundations through project-based learning
+  </text>
+</svg>
