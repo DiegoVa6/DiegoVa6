@@ -41,7 +41,7 @@ Here are some of the projects I’ve developed so far at 42:
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,git,linux,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,bash,git,linux,vscode,mysql,html" />
 </p>
 
 ## 📫 Contact
