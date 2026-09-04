@@ -48,4 +48,4 @@ Here are some of the projects I’ve developed so far at 42:
 
 If you'd like to reach out:
 - LinkedIn: [Diego-Valladares-Ortega](https://www.linkedin.com/in/diego-valladares-ortega/)
-- Email     Diego.vallor@gmail.com
+- Email     d.valladareso223@gmail.com
